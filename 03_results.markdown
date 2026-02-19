@@ -25,7 +25,9 @@ order: 30
 ## 記録
 
 - **２０２５カーリング体験会**
-  
+
   - ２０２６年１月２４日（土）
-  
-  体験会の様子はこちらからご覧ください。　[ーー＞体験会の記事]({% post_url 2026-02-17-taiken-kai %})
+
+  体験会の様子はこちらからご覧ください。  
+{% capture taiken %}{% post_url 2026-02-17-taiken-kai %}{% endcapture %}
+  [ーー＞体験会の記事]({{ taiken | relative_url }})
