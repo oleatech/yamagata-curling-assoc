@@ -10,13 +10,12 @@ categories:
 
 #### 体験会の様子
 
-<img alt="体験会画像1" src="{{ '/images/IMG_1446.JPG' | relative_url }}" style="zoom:33%;" />
+<img src="{{ '/images/IMG_1446.JPG' | relative_url }}" alt="体験会画像1" style="width:50%; height:auto;" />
 
-<img alt="体験会画像2" src="{{ '/images/IMG_1427.JPG' | relative_url }}" style="zoom:33%;" />
+<img src="{{ '/images/IMG_1427.JPG' | relative_url }}" alt="体験会画像2" style="width:50%; height:auto;" />
 
-<img alt="体験会画像3" src="{{ '/images/IMG_1424.JPG' | relative_url }}" style="zoom:33%;" />
+<img src="{{ '/images/IMG_1424.JPG' | relative_url }}" alt="体験会画像3" style="width:50%; height:auto;" />
 
-<img alt="体験会画像4" src="{{ '/images/IMG_1434.JPG' | relative_url }}" style="zoom:33%;" />
+<img src="{{ '/images/IMG_1434.JPG' | relative_url }}" alt="体験会画像4" style="width:50%; height:auto;" />
 
-<img alt="体験会画像5" src="{{ '/images/IMG_1444.JPG' | relative_url }}" style="zoom:33%;" />
-
+<img src="{{ '/images/IMG_1444.JPG' | relative_url }}" alt="体験会画像5" style="width:50%; height:auto;" />
