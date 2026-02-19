@@ -10,7 +10,7 @@ categories:
 
 #### 体験会の様子
 
-<img alt="体験会画像1" src="/yamagata-curling/images/IMG_1446.JPG" style="zoom:33%;" />
+<img alt="体験会画像1" src={{ "/images/IMG_1446.JPG" | relative_url }} style="zoom:33%;" />
 
 <img alt="体験会画像2" src="/yamagata-curling/images/IMG_1427.JPG" style="zoom:33%;" />
 
