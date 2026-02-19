@@ -32,8 +32,8 @@ order: 20
 - **２０２５カーリング体験会**
   - ２０２６年１月２４日（土）
   - みちのくコカ・コーラボトリングリンク（盛岡市）
-  - [２０２５カーリング体験会開催要項]({% link 2025curling-experience-event-details.pdf %})
-  - [２０２５カーリング体験会募集チラシ]({% link 2025curling-experience-event-flyer.pdf %})
+  - [２０２５カーリング体験会開催要項]({{ '/2025curling-experience-event-details.pdf' | relative_url }})
+  - [２０２５カーリング体験会募集チラシ]({{ '/2025curling-experience-event-flyer.pdf' | relative_url }})
 
 <br>
 
@@ -43,7 +43,7 @@ order: 20
 
   - ７日（土）１３：００〜１６：００　みちのくコカ・コーラボトリングリンク（盛岡市）
 
-  カーリング体験を希望される方はお気軽にお問合せください。　[ーー＞問合せ]({% link 05_contact_us.markdown %})
+  カーリング体験を希望される方はお気軽にお問合せください。　[ーー＞問合せ]({{ '/05_contact_us/' | relative_url }})
 
 <br>
 
