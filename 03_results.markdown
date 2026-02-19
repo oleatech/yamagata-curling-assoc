@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 結果／記録
+nav: true
 permalink: /03_results/
 ref: 03_results
 order: 30

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 山形県カーリング協会の概要
+nav: true
 permalink: /01_about/
 ref: 01_about
 order: 10

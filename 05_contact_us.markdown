@@ -1,6 +1,7 @@
 ---
 layout: page
 title: お問合せ
+nav: true
 permalink: /05_contact_us/
 ref: 05_contact_us
 order: 50

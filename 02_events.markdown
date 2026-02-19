@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 行事予定
+nav: true
 permalink: /02_events/
 ref: 02_events
 order: 20

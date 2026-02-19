@@ -1,6 +1,7 @@
 ---
 layout: page
 title: リンク
+nav: true
 permalink: /04_links/
 ref: 04_links
 order: 40
