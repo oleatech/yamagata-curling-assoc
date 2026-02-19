@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "/yamagata-curling-assoc" # the subpath of your site, e.g. /blog
 url: "https://oleatech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:categories/:year/:month/:day/:title:output_ext
 facebook_username: 山形県カーリング協会
 
 # Build settings

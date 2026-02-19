@@ -2,7 +2,7 @@
 layout: post
 title:  "2025カーリング体験会実施"
 date:   2026-02-17 21:38:28 +0900
-categories:
+categories: event
 ---
 ４名の方に参加して頂き、無事にカーリング体験会を実施することができました。
 
