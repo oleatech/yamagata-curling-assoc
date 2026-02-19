@@ -63,3 +63,5 @@ header_pages_refs:
   - 03_results
   - 04_links
   - 05_contact_us
+
+show_downloads: false
