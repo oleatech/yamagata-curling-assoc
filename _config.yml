@@ -23,8 +23,8 @@ email: yamagata-curling@ymail.ne.jp
 description: >- # this means to ignore newlines until "baseurl:"
   山形県内のカーリング競技を支える団体です。大会のご案内や結果、行事予定などを発信し、専用カーリングシート併設の屋内スケート場の実現を目指して活動しています。
   
-baseurl: "/yamagata-curling/" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/yamagata-curling-assoc/" # the subpath of your site, e.g. /blog
+url: "https://oleatech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: 山形県カーリング協会
 
 # Build settings
