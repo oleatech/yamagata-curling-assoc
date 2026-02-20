@@ -28,4 +28,4 @@ order: 30
 
   - ２０２６年１月２４日（土）
 
-  体験会の様子はこちらからご覧ください。　 [ーー＞体験会の記事]({{ '/yamagata-curling/2026/02/17/taiken-kai.html' }})
+  体験会の様子はこちらからご覧ください。　 [ーー＞体験会の記事]({{ '/yamagata-curling-assoc/2026/02/17/taiken-kai.html' }})
