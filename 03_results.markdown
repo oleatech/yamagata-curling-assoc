@@ -28,5 +28,4 @@ order: 30
 
   - ２０２６年１月２４日（土）
 
-  体験会の様子はこちらからご覧ください。　[ーー＞体験会の記事]({% post_url 2026-02-17-taiken-kai %})
-
+  体験会の様子はこちらからご覧ください。　<a href=https://oleatech.github.io/yamagata-curling-assoc/2026/02/17/taiken-kai.html>ーー＞体験会の記事</a>
