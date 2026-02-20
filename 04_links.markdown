@@ -16,7 +16,7 @@ order: 40
 
 |                           統括団体                           |                                                              |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| <a href="https://www.curling.or.jp/"><img src="http://yamagata-curling-assoc/JCA.png" style="zoom:33%;" /></a> | [公益財団法人　日本カーリング協会](https://www.curling.or.jp/) |
+| <img src="{{ '/JCA.png' \| relative_url }}" style="zoom:33%;" /> | [公益財団法人　日本カーリング協会](https://www.curling.or.jp/) |
 |                       **都道府県協会**                       |                                                              |
 | <a href="https://www.aomori-curling.jp/"><img src="http://yamagata-curling-assoc/aomori_ca.png" style="zoom:33%;" /></a> | [青森県カーリング協会](https://www.aomori-curling.jp/)       |
 | <a href="https://akitacurling.jimdofree.com/"><img src="http://yamagata-curling-assoc/akita_ca.png" style="zoom:33%;" /></a> | [秋田県カーリング協会](https://akitacurling.jimdofree.com/)  |
