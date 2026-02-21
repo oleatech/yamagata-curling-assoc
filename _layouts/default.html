@@ -53,6 +53,15 @@
         <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision }}">
     <!-- SEO -->
     <meta name="google-site-verification" content="HI8VAj1O79emNixSWFwTenIxsNdLs_AW8d3Yb2f1500" />
+
+    <title>{% if page.title %}{{ page.title }} | 山形県カーリング協会{% else %}山形県カーリング協会{% endif %}</title>
+
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% else %}
+    <meta name="description" content="山形県内のカーリング競技を支える山形県カーリング協会の公式サイト。大会情報、体験会、結果・記録などを掲載しています。">
+    {% endif %}
+    
     </head>
     <body>
         
