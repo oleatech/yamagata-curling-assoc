@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 協会概要
+description: 山形県カーリング協会の概要、設立目的、活動内容、組織構成について紹介します。
 nav: true
 permalink: /01_about/
 ref: 01_about

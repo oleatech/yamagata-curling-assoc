@@ -1,16 +1,12 @@
 ---
 layout: page
 title: リンク
+description: 山形県カーリング協会に関わるサイトのリンクを掲載しています。
 nav: true
 permalink: /04_links/
 ref: 04_links
 order: 40
 ---
-
-カーリング関係のサイトを紹介しています。
-
-<br>
-
 ## カーリング協会
 
 

@@ -1,16 +1,12 @@
 ---
 layout: page
 title: 結果／記録
+description: 山形県カーリング協会が関わる大会の結果や記録、活動実績を掲載しています。
 nav: true
 permalink: /03_results/
 ref: 03_results
 order: 30
 ---
-
-各種大会の結果や行事の記録を掲載してます。
-
-<br>
-
 ## 大会結果
 
 - **第１９回東北ミックスダブルスカーリング選手権大会**
