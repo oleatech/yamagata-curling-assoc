@@ -12,4 +12,4 @@ order: 50
 山形県カーリング協会へのお問合せはGoogle Formsからお願いいたします。
 <br>
 
-[＞＞＞ Google Forms(外部リンク)](https://docs.google.com/forms/d/e/1FAIpQLSeuNFcXh2fpqk8ga6HhecmBNYo5zEwQtkPcyUJd4wwzUfpiRg/viewform?usp=header)
+[>>> 山形県カーリング協会お問合せGoogle Forms(外部リンク)](https://docs.google.com/forms/d/e/1FAIpQLSeuNFcXh2fpqk8ga6HhecmBNYo5zEwQtkPcyUJd4wwzUfpiRg/viewform?usp=header)

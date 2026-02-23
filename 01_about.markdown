@@ -43,7 +43,7 @@ order: 10
 ## 規約
 
 1. [山形県カーリング協会規約]({{ '/terms_20240819.pdf' | relative_url }})
-2. [準会員の取り扱いについて]({{ '/regulations_20240820.pdf' | relative_url }})
+2. [山形県カーリング協会準会員の取り扱いについて]({{ '/regulations_20240820.pdf' | relative_url }})
 
 
 [jekyll-organization]: https://github.com/jekyll

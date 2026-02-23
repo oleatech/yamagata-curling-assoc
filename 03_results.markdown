@@ -14,7 +14,7 @@ order: 30
 
   山形県代表の「阿部・髙橋」は４チームで競った予選ブロックで３位となり、予選敗退しました。
 
-  最終的な順位はこちらから　[ーー＞青森県庁カーリング部物語(外部リンク)](https://aomori-pref-cc.hatenablog.com/)
+  最終的な順位はこちらから　[>>> 青森県庁カーリング部物語(外部リンク)](https://aomori-pref-cc.hatenablog.com/)
 
 <br>
 
@@ -24,4 +24,4 @@ order: 30
 
   - ２０２６年１月２４日（土）
 
-  体験会の様子はこちらからご覧ください。　 [ーー＞体験会の記事]({{ '/yamagata-curling-assoc/2026/02/17/taiken-kai.html' }})
+  体験会の様子はこちらからご覧ください。　 [>>> 2025カーリング体験会の記事]({{ '/yamagata-curling-assoc/2026/02/17/taiken-kai.html' }})
