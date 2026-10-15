@@ -17,7 +17,7 @@ order: 20
 
 詳しくはチラシをご覧ください。
 
-<img src="C:\Users\User\OneDrive\ドキュメント\GitHub\yamagata-curling-assoc\images\2026taiken.PNG" alt="2026体験会チラシ" style="zoom:33%;" />
+<img src="{{ '/images/2026taiken.png' | relative_url }}" alt="2026体験会チラシ" style="width:50%; height:auto;" />
 
 <br>
 
