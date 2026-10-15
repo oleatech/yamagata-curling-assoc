@@ -10,5 +10,5 @@ categories:
 - 場所　みちのくコカ・コーラボトリングリンク（盛岡市アイスリンク）
 - 対象　小学５年生以上
 
-詳細はこちら　＞＞　[行事予定]({{ '~/02_events.markdown' | relative_url }})
+詳細はこちら　＞＞　[行事予定]({% link 02_events.markdown %})
 
