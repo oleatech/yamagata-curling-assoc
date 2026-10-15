@@ -10,5 +10,8 @@ categories:
 - 場所　みちのくコカ・コーラボトリングリンク（盛岡市アイスリンク）
 - 対象　小学５年生以上
 
-詳細はこちら　＞＞　[行事予定]({% link 02_events.markdown %})
+- 申し込み：Google Formsからお申込みください　ーーー＞　[Google Forms](https://forms.gle/m2DjPgq6VUPeqcDx7)
 
+詳しくはチラシをご覧ください。
+
+<img src="{{ '/images/2026taiken.PNG' | relative_url }}" alt="2026体験会チラシ" style="width:50%; height:auto;" />
