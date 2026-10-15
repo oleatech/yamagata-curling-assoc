@@ -17,7 +17,7 @@ order: 20
 
 詳しくはチラシをご覧ください。
 
-<img src="{{ '/images/2026taiken.png' | relative_url }}" alt="2026体験会チラシ" style="width:50%; height:auto;" />
+<img src="{{ '/images/2026taiken.PNG' | relative_url }}" alt="2026体験会チラシ" style="width:50%; height:auto;" />
 
 <br>
 
